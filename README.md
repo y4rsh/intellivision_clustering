@@ -19,18 +19,29 @@
 
 ----
 
-##### Лучший алгоритм кластеризации MiniBatchKMeans на дескрипторах osnet
+### Лучший алгоритм кластеризации MiniBatchKMeans на дескрипторах osnet
 
 [Метки кластеров](osnet_MiniBatchKMeans.csv)
 
 ![resources/osnet/osnet.gif](resources/osnet/osnet.gif)
 
-# todo примеры
+Кластер красных             |  Кластер белых
+:-------------------------:|:-------------------------:
+![](resources/osnet/red_cluster.png)  |  ![](resources/osnet/white_cluster.png)
+
+Кластер черных             |  Кластер разноцветных
+:-------------------------:|:-------------------------:
+![](resources/osnet/black_cluster.png)  |  ![](resources/osnet/colored_cluster.png)
 
 ----
 
-##### Худший алгоритм DBSCAN и худшие дескрипторы efficient net
+### Худший алгоритм DBSCAN и худшие дескрипторы efficient net
 
 ![resources/effnet/effnet.gif](resources/effnet/effnet.gif)
 
-# todo примеры
+Ну удалось подобрать такие параметры eps, min_samples чтобы
+кластеры были сбалансированы.
+
+Нулевой (и единственный) кластер             |  Кластер выбросов
+:-------------------------:|:-------------------------:
+![](resources/effnet/dbscan0.png)  |  ![](resources/effnet/dbscan-1.png)
