@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrsndmn/intellivision_clustering/blob/main/Clustering.ipynb)
 
-[Пожатые дескрипторы и ноутбук](https://drive.google.com/drive/folders/1-D4VfBQ43bvDfjDRc9IlA6Ecqfn2m0Ll)
+[Дескрипторы и ноутбук](https://drive.google.com/drive/folders/1-D4VfBQ43bvDfjDRc9IlA6Ecqfn2m0Ll)
 
 
 | Descriptor    |  Size | Method          | calinski_harabasz_score | davies_bouldin_score | cluster interpretation |
