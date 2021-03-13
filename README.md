@@ -21,10 +21,16 @@
 
 ##### Лучший алгоритм кластеризации MiniBatchKMeans на дескрипторах osnet
 
+[Метки кластеров](osnet_MiniBatchKMeans.csv)
+
 ![resources/osnet/osnet.gif](resources/osnet/osnet.gif)
+
+# todo примеры
 
 ----
 
 ##### Худший алгоритм DBSCAN и худшие дескрипторы efficient net
 
 ![resources/effnet/effnet.gif](resources/effnet/effnet.gif)
+
+# todo примеры
