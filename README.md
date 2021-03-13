@@ -16,3 +16,15 @@
 | vdc_color     | 128   | MiniBatchKMeans |  111654                 | 1.82                 | by color |
 | vdc_type      | 200   | MiniBatchKMeans |  119597                 | 1.6                  | by type |
 
+
+----
+
+##### Лучший алгоритм кластеризации MiniBatchKMeans на дескрипторах osnet
+
+![resources/osnet/osnet.gif](resources/osnet/osnet.gif)
+
+----
+
+##### Худший алгоритм DBSCAN и худшие дескрипторы efficient net
+
+![resources/effnet/effnet.gif](resources/effnet/effnet.gif)
