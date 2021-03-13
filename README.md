@@ -102,7 +102,7 @@ _Или мы не умеем его готовить(_
 
 Кластер черных             |  Кластер разноцветных
 :-------------------------:|:-------------------------:
-![](resources/osnet/black_cluster.png)  |  ![](resources/osnet/colored_cluster.png)
+![](resources/osnet/black_cluster.png)  |  ![](resources/osnet/gray_cluster.png)
 
 ----
 
