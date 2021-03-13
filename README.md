@@ -10,6 +10,7 @@
 | osnet         | 200   | MiniBatchKMeans |  23471                  | 2.7                  | by color |
 | osnet         | 200   | DBSCAN euclidean|  45                     | 2.9                  | no |
 | osnet         | 200   | DBSCAN cosine   |  20                     | 9.1                  | no |
+| osnet         | 200   | AgglomerativeClustering |  2042           | 2.9                  | no |
 | efficient net | 200   | MiniBatchKMeans |  111654                 | 1.8                  | no |
 | efficient net | 200   | DBSCAN euclidean|  588                    | 3.5                  | no |
 | efficient net | 200   | DBSCAN cosine   |  376                    | 3.1                  | no |
